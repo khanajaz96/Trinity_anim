@@ -1,0 +1,17 @@
+.logo_text {
+    width: 50vw;
+    display: block;
+    margin: auto;
+    padding-top: 2vh;
+
+}
+
+.logo_svg {
+    width: 40vw;
+    display: block;
+    margin: auto;
+}
+
+.redShadow {  text-shadow:-3px 0 red;}
+.greenShadow {  text-shadow:-3px 0 red;}
+
